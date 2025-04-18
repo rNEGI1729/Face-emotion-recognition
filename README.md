@@ -28,10 +28,3 @@ The model was trained using the [FER-2013 dataset](https://www.kaggle.com/datase
 - `static/` – Example outputs.
 - `requirements.txt` – List of dependencies.
 
-## 🚀 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/rNEGI1729/Face-emotion-recognition.git
-  
-   cd Face-emotion-recognition
