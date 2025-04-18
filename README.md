@@ -34,5 +34,6 @@ The model was trained using the [FER-2013 dataset](https://www.kaggle.com/datase
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/face-emotion-recognition.git
-   cd face-emotion-recognition
+   git clone https://github.com/rNEGI1729/Face-emotion-recognition.git
+  
+   cd Face-emotion-recognition
