@@ -23,12 +23,7 @@ The model was trained using the [FER-2013 dataset](https://www.kaggle.com/datase
 
 ## 📁 Project Structure
 
-- `train.py` – Trains the CNN model on FER-2013.
-- `predict.py` – Loads the model and predicts emotion from input images.
-- `app.py` – (Optional) Flask app for real-time webcam inference.
-- `model/` – Contains trained model weights.
-- `static/` – Example input/output images.
-- `requirements.txt` – List of dependencies.
+
 
 ## 🚀 How to Run
 
