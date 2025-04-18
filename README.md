@@ -24,7 +24,6 @@ The model was trained using the [FER-2013 dataset](https://www.kaggle.com/datase
 ## 📁 Project Structure
 
 - `code.ipynb` – Jupyter notebook for training the CNN model.
-- `app.py` – Loads the trained model and predicts emotions from input.
 - `model/emotion_model.keras` – Saved model weights.
 - `static/` – Example outputs.
 - `requirements.txt` – List of dependencies.
